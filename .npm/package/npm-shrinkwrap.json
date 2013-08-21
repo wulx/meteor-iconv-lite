@@ -1,16 +1,5 @@
 {
   "dependencies": {
-    "vows": {
-      "version": "0.7.0",
-      "dependencies": {
-        "eyes": {
-          "version": "0.1.8"
-        },
-        "diff": {
-          "version": "1.0.5"
-        }
-      }
-    },
     "iconv": {
       "version": "2.0.5"
     }
