@@ -2,6 +2,9 @@
   "dependencies": {
     "iconv": {
       "version": "2.0.5"
+    },
+    "iconv-lite": {
+      "version": "0.2.11"
     }
   }
 }
