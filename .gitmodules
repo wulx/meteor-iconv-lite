@@ -1,3 +1,0 @@
-[submodule "lib/iconv-lite"]
-	path = lib/iconv-lite
-	url = git://github.com/ashtuchkin/iconv-lite.git
