@@ -3,7 +3,7 @@
   "description": "iconv-lite - pure javascript character encoding conversion (npm integrated for meteor)",
   "homepage": "https://github.com/wulx/meteor-iconv-lite",
   "author": "Gurdy Woo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "git": "https://github.com/wulx/meteor-iconv-lite.git",
   "packages": {}
 }
